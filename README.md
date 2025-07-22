@@ -27,8 +27,8 @@ The goal is to provide users with up-to-date content such as weather reports, ne
 - CSS3: Styling and responsive design
 - JavaScript (ES6+): Asynchronous API calls using fetch, dynamic content rendering
 - Public API: (e.g., OpenWeatherMap or NewsAPI — configurable)
-# 📷 Screenshots
-You may include screenshots of your webpage here to showcase UI responsiveness and live data rendering.
+# 📷 Output
+https://github.com/pallakishore06/API-INTEGRATION/issues/1#issue-3252595883
 # 📁 File Structure
 📦 project-root/
  ┣ 📄 new.html
