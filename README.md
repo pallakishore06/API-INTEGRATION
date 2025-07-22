@@ -28,7 +28,7 @@ The goal is to provide users with up-to-date content such as weather reports, ne
 - JavaScript (ES6+): Asynchronous API calls using fetch, dynamic content rendering
 - Public API: (e.g., OpenWeatherMap or NewsAPI — configurable)
 # 📷 Output
-https://github.com/pallakishore06/API-INTEGRATION/issues/1#issue-3252595883
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/850ed21c-5345-432b-a283-1b5d2c660b45" />
 # 📁 File Structure
 📦 project-root/
  ┣ 📄 new.html
@@ -50,7 +50,7 @@ cd api-data-webpage
 - Open index.html in your browser or host it locally using Live Server.
 # ✨ Future Improvements
 - Add user location detection for personalized weather data.
-- Include multiple API sources (e.g., both weather and news).
+- Include multiple API sources (e.g., wheather).
 - Implement search functionality for querying custom data.
 # 👤 Author
 PALLA KISHORE – B.Tech student passionate about operating systems, software engineering, and web development.
