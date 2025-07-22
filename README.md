@@ -36,7 +36,6 @@ The goal is to provide users with up-to-date content such as weather reports, ne
  ┣ 📄 script.js
  ┗ 📄 README.md
 
-
 # 📖 How It Works
 - Upon loading the webpage, JavaScript initiates a fetch call to the selected API.
 - API responses are parsed and key data fields are extracted.
